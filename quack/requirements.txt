@@ -31,7 +31,7 @@ piston-mini-client==0.7.5
 plainbox==0.5.3
 pluggy==0.7.1
 psycopg2==2.7.5
-py==1.6.0
+py==1.10.0
 pycrypto==2.6.1
 pycurl==7.19.3
 pygobject==3.12.0
